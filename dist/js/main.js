@@ -5371,7 +5371,10 @@ function(e, t, n) {
     d = n(14);
     n(118);
     var g = n(123),
-    m = ["https://shadowq.com/data/cache/forum.js", "https://shadowq.com/data/cache/editor.js", "https://shadowq.com/data/cache/style_54_common.css", "https://shadowq.com/template/zhanzhuai_brief/zhanzhuaicn_img/js/zz_loading.js"],
+    m = ["https://shadowq.com/data/cache/forum.js",
+	"https://shadowq.com/data/cache/editor.js", 
+	"https://shadowq.com/data/cache/style_100_common.css", 
+	"https://shadowq.com/template/shadowq_ui/shadowq_img/logo.svg"],
     y = function() {
         function e(e) {
             this.diagnoseIndex = 0,
